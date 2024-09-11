@@ -7,4 +7,6 @@
     test1
     test2
     bug1修复
-
+function1:
+    test1
+    test2
