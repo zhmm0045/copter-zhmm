@@ -2,7 +2,9 @@
 功能1：
     test1
     test2
+    bug1修复
 功能2：
     test1
     test2
+    bug1修复
 
