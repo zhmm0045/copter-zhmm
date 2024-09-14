@@ -16,3 +16,6 @@ fucncton2:
 f3：
     test1
     test2
+f4:
+    test1
+    test2
