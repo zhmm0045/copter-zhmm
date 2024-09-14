@@ -16,3 +16,6 @@ fucncton2:
 f3：
     test1
     test2
+testtag:
+    test1
+    test2
